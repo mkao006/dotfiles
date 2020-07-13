@@ -16,7 +16,9 @@
   '(better-defaults
     elpy
     flycheck ;; add the flycheck package
-    material-theme))
+    material-theme
+    spacemacs-theme
+    auto-complete))
 
 
 
